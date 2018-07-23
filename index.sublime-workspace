@@ -1,0 +1,358 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"as",
+				"asset"
+			],
+			[
+				"fore",
+				"foreach"
+			],
+			[
+				"func",
+				"functionalities"
+			],
+			[
+				"hea",
+				"headContent"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"syn",
+				"Set Syntax: CSS"
+			],
+			[
+				"sy",
+				"Set Syntax: CSS"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"blame",
+				"Git Blame"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git Blame"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIBaseCSS/src/exports/all_variables/base/_image_sprites.scss",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIBaseCSS/src/exports/all_functions/_a_px.scss",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIBaseCSS/src/sprites/_sprites_base.scss",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/RetailNavigationJavaScript/src/css/desktop-beaconbelt/structure/structure.scss",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/RetailNavigationJavaScript/src/css/desktop-beaconbelt/structure/logo.scss",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/RetailNavigationJavaScript/src/css/shared/flyouts/iss.scss",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonGatewayAuiAssets/src/_common-rec-layout.scss",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive/src/PersonalWebsiteConfig/configuration/brazil-config/override/personal.cfg",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonGatewayAuiAssets/assets.yml",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/GlowToasterAssets/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/InternationalCustomerPreferencesNavMobileAssets/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/GlowToasterAssets/Config",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/InternationalCustomerPreferencesNavMobileAssets/Config",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/WuKongAmazonFamilyMobileGatewayAssets/src/_discover-card.marketplace=cn.scss",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/NavAuiMobileAssetsSmart/aui-src/css/nav.scss",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonNavigationMobileAssets/src/js/mobile/search/searchbar.js",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonNavigationMobileAssets/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonNavigationMobileAssets/src/js/mobile/search/searchiss.js",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/RetailSearchAutocompleteAssets/assets.yml",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonNavigationMobileAssets/Config",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIBaseCSS/Config",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonGatewayAuiAssets/Config",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIBadge/v1/src/css/_badge_base.scss",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonGatewayAuiAssets/src/feed-carousel.scss",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIBadge/v1/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonGatewayHerotatorJS/assets.yml",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUICarousel/src/css/_carousel_common.scss",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIAlert/src/alerts.scss",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/RetailNavigationJavaScript/src/css/shared/accessibility.scss",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive/src/RetailNavigationMason/mason/amazon-family/gp/navigation/internal/nav-request-css-js.mi",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive/src/RetailNavigationMason/mason/amazon-family/gp/navigation/internal/nav-portal-config.mi",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive/src/RetailNavigationPortalConfig/mason/amazon-family/gp/navigation/nav-config/dhandler",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive/src/RetailNavigationMason/mason/amazon-family/gp/navigation/internal/nav-config-asset-injection.mi",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIProgressBar/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUITable/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUITabs/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUITruncate/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIPageJS/src/_util.js",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUITabs/src/css/tabs.scss",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIPopover/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIPrice/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIProfile/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIPageJS/src/jspatrol/_jspatrol_common.js",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUISwitch/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUISpinner/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIPagination/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIMeter/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIList/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUILink/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIImage/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIForm/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIExpander/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIErrata/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIDevbar/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIDevbar/Config",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIAccordion/src/css/accordion.scss",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIAccordion/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIAlert/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/SharedShoppingCartAsset/src/js/declaratives.js",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/SharedShoppingCartDesktopAsset/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/SharedShoppingCartDesktopAsset/Config",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/SharedShoppingCartAsset/Config",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/SharedShoppingCartAsset/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIAOK/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIBadge/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIBaseCSS/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIBaseJS/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIBottomSheet/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIButton/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUICard/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUICardUI/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUICarousel/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUICompatJS/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonUIComponents/config.hjson",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/src/AmazonGatewayHerotatorJS/Config",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/sftp-config.json",
+		"/Users/afarahid/Documents/workspace/afarahid/rtl-ws-golive-assets/assetsgolive.sublime-project",
+		"/Users/afarahid/Documents/workspace/afarahid/RetailWebsiteAUS/AUSConfigs/build/RetailNavigationMason/RetailNavigationMason-1.0/RHEL5_64/DEV.STD.PTHREAD/build/mason/amazon-family/gp/navigation/internal/nav-config-asset-injection.mi",
+		"/Users/afarahid/Documents/workspace/afarahid/navPkgAssets/sftp-config.json",
+		"/Users/afarahid/Documents/workspace/afarahid/ws/sftp-config.json",
+		"/Users/afarahid/Documents/workspace/afarahid/RetailWebsiteAUS/AUSConfigs/src/RetailNavigationMason/mason/amazon-family/cross-app-features/nav-beacon-flyouts-remote.mi",
+		"/Users/afarahid/Documents/workspace/afarahid/RetailWebsiteAUS/AUSConfigs/src/RetailNavigationMason/mason/amazon-family/gp/navigation/internal/nav-portal-config.mi",
+		"/Users/afarahid/Documents/workspace/afarahid/RetailWebsiteAUS/AUSConfigs/src/RetailNavigationMason/mason/amazon-family/gp/navigation/internal/nav-config-asset-injection.mi",
+		"/Users/afarahid/Documents/workspace/afarahid/RetailWebsiteAUS/AUSConfigs/src/AmazonFamilyGatewayPerlModules/perlModules/lib/Amazon/Gateway/Inline.pm",
+		"/Users/afarahid/Documents/workspace/afarahid/RetailWebsiteAUS/AUSConfigs/src/RetailNavigationMason/mason/amazon-family/gp/navigation/internal/nav-request-css-js.mi",
+		"/Users/afarahid/Documents/workspace/afarahid/RetailWebsiteAUS/remote-brazil-build",
+		"/Users/afarahid/Library/Application Support/Sublime Text 3/Packages/User/build-apollo-pkg.sublime-build",
+		"/Users/afarahid/Documents/workspace/afarahid/RetailWebsiteAUS/sftp-config.json",
+		"/Users/afarahid/Documents/RetailWebsite/RetailWebsiteAUS/sftp-config.json",
+		"/Users/afarahid/Documents/sftp-config.json",
+		"/Users/afarahid/Documents/sftp-config-alt.json",
+		"/Users/afarahid/Library/Application Support/Sublime Text 3/Packages/User/SFTP.errors.log",
+		"/Users/afarahid/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/sftp-config.json"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 409.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 345.0
+	},
+	"pinned_build_system": "Packages/User/brazil-build.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				" src/_common-rec-layout.scss",
+				"rtl-ws-golive-assets/src/AmazonGatewayAuiAssets/src/_common-rec-layout.scss"
+			],
+			[
+				"src/feed-carousel.scss",
+				"rtl-ws-golive-assets/src/AmazonGatewayAuiAssets/src/feed-carousel.scss"
+			],
+			[
+				"request-",
+				"rtl-ws-golive/src/RetailNavigationMason/mason/amazon-family/gp/navigation/internal/nav-request-css-js.mi"
+			],
+			[
+				"portal-injection",
+				"RetailWebsiteAUS/AUSConfigs/build/RetailNavigationMason/RetailNavigationMason-1.0/RHEL5_64/DEV.STD.PTHREAD/build/mason/amazon-family/gp/navigation/internal/nav-config-asset-injection.mi"
+			],
+			[
+				"nav-css",
+				"AUSConfigs/src/RetailNavigationMason/mason/amazon-family/cross-app-features/nav-css.mi"
+			],
+			[
+				"nav-h",
+				"AUSConfigs/src/RetailNavigationMason/mason/amazon-family/cross-app-features/nav-head.mi"
+			],
+			[
+				"/cross-app-features/nav-css.mi",
+				"AUSConfigs/src/RetailNavigationMason/mason/amazon-family/cross-app-features/nav-css.mi"
+			],
+			[
+				"nav-context-portal.mi",
+				"AUSConfigs/src/RetailNavigationMason/mason/retail/gp/navigation/internal/nav-context-portal.mi"
+			],
+			[
+				"/nav-por",
+				"AUSConfigs/src/RetailNavigationMason/mason/amazon-family/gp/navigation/internal/nav-portal-config.mi"
+			],
+			[
+				"/nav-re",
+				"AUSConfigs/apollo-overrides/RetailNavigationMason/mason/amazon-family/gp/navigation/internal/nav-request-css-js.mi"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 412.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
